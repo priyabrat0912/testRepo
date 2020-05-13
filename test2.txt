@@ -1,6 +1,0 @@
-centralized version control system: CVS,Subversion,TFS
-Distributed Version Control System : Mercurial,Git
-
-bitbucket
-
-git diff example 
